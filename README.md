@@ -1,4 +1,4 @@
-# Olá, meu nome é Moara 👋
+# Olá, meu nome é Moara :bulb:
 ## Seja bem-vindo ao meu perfil GitHub!
 
 
