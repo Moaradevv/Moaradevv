@@ -1,4 +1,4 @@
-# Hi, I'm Moara 👋
+# Hi, I'm Moara!
 
 ## About me
 - 🔐 Just starting my journey into Cybersecurity
@@ -17,9 +17,6 @@
 - Networking fundamentals
 - Linux basics
 - Introductory CTF challenges
-
-## GitHub Stats
-![Moara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moaradevv&show_icons=true&theme=default)
           
           
           
