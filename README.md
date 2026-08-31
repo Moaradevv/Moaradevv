@@ -1,19 +1,19 @@
 # Hi, I'm Moara 👋
 
 ## About me
-- 🔐 Transitioning into Cybersecurity — studying offensive & defensive security fundamentals
+- 🔐 Just starting my journey into Cybersecurity
 - 💻 Background in full-stack development (HTML, CSS, JavaScript, Python)
-- 🎯 Currently practicing on TryHackMe / HackTheBox
-- 📚 Working toward certifications (e.g. CompTIA Security+)
+- 🎯 Learning through TryHackMe / HackTheBox
+- 📚 Exploring certifications (e.g. CompTIA Security+) as a next step
 - 🤝 Open to connecting — feel free to reach out!
 
 ## Tools & Technologies
-`Linux` `Nmap` `Wireshark` `Burp Suite` `Metasploit` `Python` `Bash` `Git`
+`Linux` `Python` `Bash` `Git`
 
 ## Currently Learning
-- Network security fundamentals
-- Penetration testing basics
-- CTF challenges & write-ups
+- Networking fundamentals
+- Linux basics
+- Introductory CTF challenges
 
 ## GitHub Stats
 ![Moara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moaradevv&show_icons=true&theme=default)
