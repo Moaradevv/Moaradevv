@@ -18,4 +18,4 @@
 - Linux basics
 - Introductory CTF challenges
           
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/your-username.png)](https://tryhackme.com/p/your-username)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cyber.moara.png)](https://tryhackme.com/p/cyber.moara)
